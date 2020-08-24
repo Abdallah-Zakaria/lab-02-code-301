@@ -1,6 +1,5 @@
-# lab-02
-
-Number and name of feature: 1
+lab-02
+Number and name of feature: 1 Display images
 
 Estimate of time needed to complete: 2 hour
 
@@ -10,7 +9,7 @@ Finish time: 02:40 PM
 
 Actual time needed to complete: 1 hour
 
-Number and name of feature: 2
+Number and name of feature: 2 Filter images
 
 Estimate of time needed to complete: 2 hour
 
@@ -20,7 +19,7 @@ Finish time: 04:00 PM
 
 Actual time needed to complete: 1 hour and Twenty minutes
 
-Number and name of feature: 3
+Number and name of feature: 3 Style the application
 
 Estimate of time needed to complete: 1 hour
 
@@ -28,5 +27,4 @@ Start time: 04:00 PM
 
 Finish time: 05:00 PM
 
-Actual time needed to complete: 1 hour 
-
+Actual time needed to complete: 1 hour
